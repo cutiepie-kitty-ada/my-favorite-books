@@ -1,0 +1,52 @@
+site_name: My Favorite Books
+theme:
+  name: material
+  favicon: https://cdn4.iconfinder.com/data/icons/education-759/2050/Education_flat-19-512.png
+  logo: https://cdn4.iconfinder.com/data/icons/education-759/2050/Education_flat-19-512.png
+  font:
+    text: Roboto
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+  features:
+    - header.autohide
+    - navigation.top
+    - navigation.footer
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.instant
+repo_name: my-favorite-books
+repo_url: https://github.com/cutiepie-kitty-ada/my-favorite-books
+nav:
+  - Home: index.md
+plugins:
+  - search
+  - tags
+  - blog:
+      blog_dir: .
+      post_url_format: "{slug}"
+  - minify:
+      minify_html: true
+markdown_extensions:
+  - attr_list
+  - md_in_html
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cutiepie-kitty-ada
