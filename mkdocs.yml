@@ -1,8 +1,8 @@
 site_name: My Favorite Books
 theme:
   name: material
-  favicon: https://cdn4.iconfinder.com/data/icons/education-759/2050/Education_flat-19-512.png
-  logo: https://cdn4.iconfinder.com/data/icons/education-759/2050/Education_flat-19-512.png
+  favicon: https://cdn2.iconfinder.com/data/icons/education-1395/512/4_books.png
+  logo: https://cdn2.iconfinder.com/data/icons/education-1395/512/4_books.png
   font:
     text: Roboto
   palette:
