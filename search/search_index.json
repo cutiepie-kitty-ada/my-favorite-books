@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Home","text":""},{"location":"#my-favorite-books","title":"My Favorite Books","text":""}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Home","text":""},{"location":"#my-favorite-books","title":"My Favorite Books","text":""},{"location":"the-witch-of-woodland/","title":"The Witch of Woodland","text":""},{"location":"archive/2024/","title":"2024","text":""}]}
