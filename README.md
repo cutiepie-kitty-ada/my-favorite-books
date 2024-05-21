@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn4.iconfinder.com/data/icons/education-759/2050/Education_flat-19-512.png" alt="logo" height="128">
+    <img src="https://cdn2.iconfinder.com/data/icons/education-1395/512/4_books.png" alt="logo" height="128">
 </div>
 
 # my-favorite-books
